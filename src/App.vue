@@ -42,6 +42,7 @@ export default {
 };
 </script>
 
+
 <style>
 body {
   font-family: sans-serif;
